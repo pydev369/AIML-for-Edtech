@@ -1,6 +1,6 @@
 # AIML-for-Edtech
 
-![image]()
+![image](https://github.com/pydev369/AIML-for-Edtech/blob/main/edtech.png)
 
 One of the key benefits of AiML was that it was able to adapt to each student's unique learning style. It analyzed data from the student's previous performance and used that information to create customized lesson plans that targeted their specific areas of weakness.
 
